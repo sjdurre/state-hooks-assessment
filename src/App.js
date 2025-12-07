@@ -6,7 +6,7 @@ import TodoList from "./TodoList";
 function App() {
   return (
     <div style={{ padding: "20px", fontFamily: "Arial" }}>
-      <h1>React State & Hooks Performance Assessment</h1>
+      <h1>React GitHub Performance Assessment</h1>
 
       <h2>Task 1: Simple Counter</h2>
       <Counter />
